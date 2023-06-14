@@ -41,7 +41,6 @@ These algorithms work together to provide the computer player with intelligent d
 
 ## Usage
 
-- Make moves by entering the starting and ending positions of the chess pieces using the standard algebraic notation (e.g., "e2 e4").
 - The computer player will make its moves based on the selected AI algorithms.
 - Continue playing until the game is completed, and the winner is determined.
 
